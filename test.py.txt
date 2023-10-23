@@ -1,0 +1,7 @@
+nama = 'aano' 
+nama1 = 'aanokoji'
+kelas = 12
+tinggi_badan = 166.5
+
+print ( 'halo nama ku' + nama + str(kelas) + str(tinggi_badan) )
+print ( 'kalo aku adalah' + nama1 )
